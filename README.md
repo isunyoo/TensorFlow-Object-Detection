@@ -1,9 +1,6 @@
 # Python dependencies are covered with: 
 
-$ pip install pillow
-$ pip install lxml
-$ pip install jupyter
-$ pip install matplotlib
+$ pip install pillow lxml jupyter matplotlib
 
 
 # Models-Master Directory
