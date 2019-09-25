@@ -3,7 +3,7 @@
 $ pip install pillow lxml jupyter matplotlib
 
 
-# Models-Master Directory
+# Models-Master Directory(TensorFlow Models)
 
 $ git clone https://github.com/tensorflow/models.git 
 OR click the green "clone or download" button on the https://github.com/tensorflow/models page, 
