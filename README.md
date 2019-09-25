@@ -1,5 +1,4 @@
-
-#Python dependencies are covered with: 
+# Python dependencies are covered with: 
 
 $ pip install pillow
 $ pip install lxml
